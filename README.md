@@ -5,6 +5,8 @@ Each hour block is color coded indicating its current position in time; past, pr
 User is able to enter text in the description field and click the save button to store that text.
 User can refresh or reopen application at a later time and be presented with saved descriptions from local storage.
 
+https://conniemarie.github.io/day-planner/
+
 ![deployed-app](https://user-images.githubusercontent.com/105762638/185215801-339d4ded-7039-42d6-872e-f095afb68c0d.png)
 
 ![deployed-app2](https://user-images.githubusercontent.com/105762638/185215826-caa5fb30-4bc5-4075-bf83-3119b5a3aa1f.png)
