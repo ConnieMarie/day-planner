@@ -1,7 +1,7 @@
 # Work Day Scheduler Starter Code
 
-User opens app in their browser and is presented with the current day of the week, the current date and time, and ten one hour blocks from 8am to 5pm.
-Each hour block is color coded indicating they are its current position in time; past, present, or future.
+User opens application in their browser and is presented with the current day of the week, the current date and time, and ten one hour blocks from 8am to 5pm.
+Each hour block is color coded indicating its current position in time; past, present, or future.
 User is able to enter text in the description field and click the save button to store that text.
 User can refresh or reopen application at a later time and be presented with saved descriptions from local storage.
 
